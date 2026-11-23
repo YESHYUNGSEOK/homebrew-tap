@@ -1,0 +1,19 @@
+Casks/plum.rb
+  s_24da57a0c16c72::t_344b6d412b3636 20-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c6fdb43e05e5e044a64ccdab9ea1910d3c9f724c",
+  "prompts": {},
+  "sessions": {
+    "s_24da57a0c16c72": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d79b40c1-f331-4a6d-8f6f-a4ae6aa61b36",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
