@@ -17,13 +17,13 @@ cask "plum" do
   depends_on arch: :arm64
   depends_on macos: :sonoma
 
+  app "Plum.app"
+
   # Not notarized yet: Homebrew quarantines its downloads, and Gatekeeper would
   # stop the first launch.
   postflight_steps do
     run "/usr/bin/xattr", args: ["-dr", "com.apple.quarantine", "{{appdir}}/Plum.app"], must_succeed: false
   end
-
-  app "Plum.app"
 
   zap trash: [
     "~/Library/Application Support/dev.plum.Plum",
