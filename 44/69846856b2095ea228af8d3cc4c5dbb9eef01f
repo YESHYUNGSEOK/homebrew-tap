@@ -1,0 +1,19 @@
+Casks/plum.rb
+  s_4097202b5f7970::t_42865edf9c2f91 2-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4469846856b2095ea228af8d3cc4c5dbb9eef01f",
+  "prompts": {},
+  "sessions": {
+    "s_4097202b5f7970": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_4097202b5f7970",
+        "model": "unknown"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
