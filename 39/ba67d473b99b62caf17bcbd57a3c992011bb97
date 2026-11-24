@@ -1,0 +1,19 @@
+Casks/plum.rb
+  s_75a15bfdeb14de::t_9f4f880f3c1ff0 2-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "39ba67d473b99b62caf17bcbd57a3c992011bb97",
+  "prompts": {},
+  "sessions": {
+    "s_75a15bfdeb14de": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e918-c513-7f20-a1f8-3afbe1582b72",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
