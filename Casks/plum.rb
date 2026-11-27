@@ -1,6 +1,6 @@
 cask "plum" do
-  version "0.1.20"
-  sha256 "35b03875f2d84827f1cfb53da6e5240cdb070e11ecc24a6c409608a4f9df4106"
+  version "0.1.21"
+  sha256 "c0adc604bfde92599cffaa675b2be149aa8ba29bc77cc29d65c0be3467e12268"
 
   url "https://github.com/YESHYUNGSEOK/plum/releases/download/v#{version}/Plum-#{version}-arm64.zip"
   name "Plum"
